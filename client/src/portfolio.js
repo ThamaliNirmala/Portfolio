@@ -240,19 +240,19 @@ const achievementSection = {
       ]
     },
 
-    /*{
+    {
       title: "Second Year First Semester",
       subtitle:
-        "3.54 GPA",
-      image: require("./assets/images/gpa3.PNG"),
+        "2.83 GPA",
+      image: require("./assets/images/y2_s1.PNG"),
       footerLink: [
         {
           name: "View Result",
-          url: "https://i.ibb.co/0jsc1V2/gpa3.png"
+          url: "https://i.ibb.co/4mgSZh4/y2-s1.png"
         }
        
       ]
-    }*/
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
