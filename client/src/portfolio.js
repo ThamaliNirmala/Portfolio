@@ -11,13 +11,13 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Thmali Nirmala",
+  username: "Thamali Nirmala",
   title: "Hi all, I'm Thamali",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1F_dXtNfMQV9PDdMWLSExp1B48W5pkzMO/view?usp=sharing",
+    "https://drive.google.com/file/d/1kUWWiPnG-OksDUN8sx9nvfq4rfvtku67/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -200,6 +200,19 @@ const bigProjects = {
       ]
     },
 
+    {
+      image: require("./assets/images/studioo600D.png"),
+      projectName: "Studio-600D",
+      projectDesc: "Full Stack MERN Web Application for Heart Touching Photography.",
+      footerLink: [
+        {
+          name: "Visit Repo",
+          url: "https://github.com/ThamaliNirmala/Studio-600D"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -245,6 +258,20 @@ const achievementSection = {
       subtitle:
         "2.83 GPA",
       image: require("./assets/images/y2_s1.PNG"),
+      footerLink: [
+        {
+          name: "View Result",
+          url: "https://i.ibb.co/4mgSZh4/y2-s1.png"
+        }
+       
+      ]
+    },
+
+    {
+      title: "Second Year Second Semester",
+      subtitle:
+        "2.91 GPA",
+      image: require("./assets/images/y2_s2.PNG"),
       footerLink: [
         {
           name: "View Result",
