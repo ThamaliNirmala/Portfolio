@@ -275,7 +275,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Result",
-          url: "https://i.ibb.co/4mgSZh4/y2-s1.png"
+          url: "https://i.ibb.co/TMRLcc5/y2-s2.png"
         }
        
       ]
