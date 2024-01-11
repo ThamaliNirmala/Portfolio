@@ -223,12 +223,38 @@ const bigProjects = {
 
     {
       image: require("./assets/images/research.png"),
-      projectName: "Final Year Research Project" ,
+      projectName: "Final Year Research Project " ,
       projectDesc: "ARCHIVEHUB: An Assistive Dashboard for Staff Research Profile",
       footerLink: [
         {
           name: "Visit Web Site",
-          url: "http://archivehub.online/"
+          url: "https://portfolio.archivehub.online//"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/RG.png"),
+      projectName: "IMPORT AND EXPORT CONSULTANCY" ,
+      projectDesc: "We empower businesses globally, providing expert import-export consulting services to optimize international trade and maximize growth opportunities.",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://rgidealsolutions.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/vinothPortfolio.png"),
+      projectName: "Personal Portfolio" ,
+      projectDesc: "Product Designer who solves real UX problems and delight users. Currently working as a Lead Designer in Sri Lankan based company. And having 9 years of experience in Product Designing.",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://itzmepvk.com/"
         }
         //  you can add extra buttons here.
       ]
