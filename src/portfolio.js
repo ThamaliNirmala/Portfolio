@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Thamali Nirmala",
+  username: "Thamali Herath",
   title: "Hi all, I'm Thamali",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Flutter and some other cool libraries and frameworks."
@@ -166,7 +166,7 @@ const workExperiences = {
       role: "Software Engineer Student",
       company: "SLIIT",
       companylogo: require("./assets/images/SLIIT_Logo_Crest.png"),
-      date: "2020 – Present",
+      date: "2020 – 2023",
       desc: "The largest IT degree awarding institute in Sri Lanka in the field of Information Technology...",
      
     },
@@ -216,6 +216,19 @@ const bigProjects = {
         {
           name: "Visit Repo",
           url: "https://github.com/ThamaliNirmala/Studio-600D"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/research.png"),
+      projectName: "Final Year Research Project" ,
+      projectDesc: "ARCHIVEHUB: An Assistive Dashboard for Staff Research Profile",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "http://archivehub.online/"
         }
         //  you can add extra buttons here.
       ]
