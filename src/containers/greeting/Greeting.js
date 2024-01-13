@@ -24,7 +24,7 @@ export default function Greeting() {
               <h1
                 className={isDark ? "dark-mode greeting-text" : "greeting-text"}
               >
-                <img src="thamali.jpg"  style={{width:"40%"}} className="rounded-circle"/><br/>
+                <img src="MY.jpeg"  style={{width:"250px", height:"250px", borderRadius:"50%"}} className="rounded-circle"/><br/>
                 {greeting.title}{" "}
                 <span className="wave-emoji">{emoji("👋")}</span>
               </h1>

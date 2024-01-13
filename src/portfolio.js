@@ -147,11 +147,11 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "78%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -209,7 +209,7 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/600D.png"),
+      image: require("./assets/images/s600D.png"),
       projectName: "Studio-600D",
       projectDesc: "Full Stack MERN Web Application for Heart Touching Photography.",
       footerLink: [
