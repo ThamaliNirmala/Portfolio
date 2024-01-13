@@ -209,7 +209,7 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/s600D.png"),
+      image: require("./assets/images/600D.jpg"),
       projectName: "Studio-600D",
       projectDesc: "Full Stack MERN Web Application for Heart Touching Photography.",
       footerLink: [
