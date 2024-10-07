@@ -210,7 +210,7 @@ const bigProjects = {
 
     {
       image: require("./assets/images/RG.png"),
-      projectName: "IMPORT AND EXPORT CONSULTANCY" ,
+      projectName: "Import and Export Consultancy" ,
       projectDesc: "We empower businesses globally, providing expert import-export consulting services to optimize international trade and maximize growth opportunities.",
       footerLink: [
         {
