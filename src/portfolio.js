@@ -14,10 +14,10 @@ const greeting = {
   username: "Thamali Herath",
   title: "Hi all, I'm Thamali",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Flutter and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Wordpress and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/drive/folders/1dGiLp5rE5t9xPKPd6o_vim9Da7zesTWF?usp=sharing",
+    "https://drive.google.com/drive/folders/1AydE-OXt_f-5q4lfFOBuuPWaHF65--0n?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -25,7 +25,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ThamaliNirmala",
-  linkedin: "https://www.linkedin.com/in/thamali-nirmala/",
+  linkedin: "https://www.linkedin.com/in/thamali-nirmala-herath/",
   gitlab: "https://gitlab.com/tnirmalaadasooriya",
   facebook: "https://web.facebook.com/thamalinirmala/",
   medium: "https://medium.com/@ThamaliNirmala",
