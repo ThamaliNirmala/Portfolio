@@ -196,6 +196,44 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/banyan.png"),
+      projectName: "Banyan Restaurant" ,
+      projectDesc: "Set a couple of paces away from the Kings Arms pub is Banyan, an authentic Indian restaurant with a fine dining touch . Fresh ingredients sourced and created by professional Indian chefs are complemented with exceptional service.",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://banyanrestaurant.co.uk/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/RG.png"),
+      projectName: "IMPORT AND EXPORT CONSULTANCY" ,
+      projectDesc: "We empower businesses globally, providing expert import-export consulting services to optimize international trade and maximize growth opportunities.",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://rgidealsolutions.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/vinothPortfolio.png"),
+      projectName: "Personal Portfolio" ,
+      projectDesc: "Product Designer who solves real UX problems and delight users. Currently working as a Lead Designer in Sri Lankan based company. And having 9 years of experience in Product Designing.",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://itzmepvk.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/login.png"),
       projectName: "Thaulla Bojun",
       projectDesc: "Online Food Ordering & Delivery Management System",
@@ -229,32 +267,6 @@ const bigProjects = {
         {
           name: "Visit Web Site",
           url: "https://portfolio.archivehub.online//"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-
-    {
-      image: require("./assets/images/RG.png"),
-      projectName: "IMPORT AND EXPORT CONSULTANCY" ,
-      projectDesc: "We empower businesses globally, providing expert import-export consulting services to optimize international trade and maximize growth opportunities.",
-      footerLink: [
-        {
-          name: "Visit Web Site",
-          url: "https://rgidealsolutions.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-
-    {
-      image: require("./assets/images/vinothPortfolio.png"),
-      projectName: "Personal Portfolio" ,
-      projectDesc: "Product Designer who solves real UX problems and delight users. Currently working as a Lead Designer in Sri Lankan based company. And having 9 years of experience in Product Designing.",
-      footerLink: [
-        {
-          name: "Visit Web Site",
-          url: "https://itzmepvk.com/"
         }
         //  you can add extra buttons here.
       ]
