@@ -170,14 +170,14 @@ const workExperiences = {
       desc: "The largest IT degree awarding institute in Sri Lanka in the field of Information Technology...",
      
     },
-    // {
-    //   role: "Intern Fullstack Software Engineer",
-    //   company: "Treinetic",
-    //   companylogo: require("./assets/images/Treinetic.jpg"),
-    //   date: "2022 Mar 30 – 2022 Dec 31",
-    //   desc: "Latest Technology to Meet up Your Innovative Ideas & Business Needs...",
+    {
+      role: "Intern Fullstack Software Engineer",
+      company: "Treinetic",
+      companylogo: require("./assets/images/Treinetic.jpg"),
+      date: "2022 Mar – 2023 Mar ",
+      desc: "Latest Technology to Meet up Your Innovative Ideas & Business Needs...",
      
-    // }
+    }
   ]
 };
 
