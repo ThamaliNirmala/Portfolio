@@ -209,6 +209,19 @@ const bigProjects = {
     },
 
     {
+      image: require("./assets/images/research.png"),
+      projectName: "Final Year Research Project " ,
+      projectDesc: "ARCHIVEHUB: An Assistive Dashboard for Staff Research Profile",
+      footerLink: [
+        {
+          name: "Visit Web Site",
+          url: "https://portfolio.archivehub.online//"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
       image: require("./assets/images/RG.png"),
       projectName: "Import and Export Consultancy" ,
       projectDesc: "We empower businesses globally, providing expert import-export consulting services to optimize international trade and maximize growth opportunities.",
@@ -254,19 +267,6 @@ const bigProjects = {
         {
           name: "Visit Repo",
           url: "https://github.com/ThamaliNirmala/Studio-600D"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-
-    {
-      image: require("./assets/images/research.png"),
-      projectName: "Final Year Research Project " ,
-      projectDesc: "ARCHIVEHUB: An Assistive Dashboard for Staff Research Profile",
-      footerLink: [
-        {
-          name: "Visit Web Site",
-          url: "https://portfolio.archivehub.online//"
         }
         //  you can add extra buttons here.
       ]
