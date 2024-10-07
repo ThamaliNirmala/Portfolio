@@ -246,18 +246,6 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/login.png"),
-      projectName: "Thaulla Bojun",
-      projectDesc: "Online Food Ordering & Delivery Management System",
-      footerLink: [
-        {
-          name: "Visit Repo",
-          url: "https://github.com/SLIIT-IT-Project-2021/Thaulla-Bojun"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
 
     {
       image: require("./assets/images/600D.jpg"),
@@ -267,6 +255,19 @@ const bigProjects = {
         {
           name: "Visit Repo",
           url: "https://github.com/ThamaliNirmala/Studio-600D"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+    {
+      image: require("./assets/images/login.png"),
+      projectName: "Thaulla Bojun",
+      projectDesc: "Online Food Ordering & Delivery Management System",
+      footerLink: [
+        {
+          name: "Visit Repo",
+          url: "https://github.com/SLIIT-IT-Project-2021/Thaulla-Bojun"
         }
         //  you can add extra buttons here.
       ]
