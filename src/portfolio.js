@@ -202,7 +202,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Web Site",
-          url: "https://banyanrestaurant.co.uk/"
+          url: "https://banyanrestaurants.co.uk/"
         }
         //  you can add extra buttons here.
       ]
